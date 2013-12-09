@@ -2,6 +2,117 @@
    height: 28px;
    width: 28px;
 }this does not work... this takes a bigger area in the png...*/
+
+/* Inktank */
+
+a {
+  color: #f05c56;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #a42a56;
+  text-decoration: underline;
+}
+
+.navbar-inner {
+  background-color: #29343a;
+  background-image: -moz-linear-gradient(top, #29343a, #);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#29343a), to(#4b545b));
+  background-image: -webkit-linear-gradient(top, #29343a, #4b545b);
+  background-image: -o-linear-gradient(top, #29343a, #4b545b);
+  background-image: linear-gradient(to bottom, #29343a, #4b545b);
+  background-repeat: repeat-x;
+  border: 1px solid #29343a;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff37424a', endColorstr='#ff4b545b', GradientType=0);
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+     -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+          box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+}
+
+.navbar .brand {
+  color: #ffffff;
+  text-shadow: 0 1px 0 #29343a;
+}
+
+.navbar .divider-vertical {
+  border-right: 1px solid #29343a;
+  border-left: 1px solid #4b545b;
+}
+
+.navbar .nav > li > a {
+  color: #ffffff;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #29343a;
+}
+
+.navbar .nav > li > a:focus,
+.navbar .nav > li > a:hover {
+  color: #ffffff;
+  text-decoration: none;
+  background-color: #29343a;
+}
+
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+  color: #ffffff;
+  text-decoration: none;
+  background-color: #29343a;
+  -webkit-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
+     -moz-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
+          box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
+}
+
+.dropdown-menu > li > a {
+  color: #f05c56;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-submenu:hover > a,
+.dropdown-submenu:focus > a {
+  color: #ffffff;
+  text-decoration: none;
+  background-color: #f05c56;
+  background-image: -moz-linear-gradient(top, #29343a, #4b545b);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#29343a), to(#4b545b));
+  background-image: -webkit-linear-gradient(top, #29343a, #4b545b);
+  background-image: -o-linear-gradient(top, #29343a, #4b545b);
+  background-image: linear-gradient(to bottom, #29343a, #4b545b);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff29343a', endColorstr='#ff4b545b', GradientType=0);
+}
+
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+  color: #ffffff;
+  text-decoration: none;
+  background-color: #f05c56;
+  background-image: -moz-linear-gradient(top, #29343a, #4b545b);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#29343a), to(#4b545b));
+  background-image: -webkit-linear-gradient(top, #29343a, #4b545b);
+  background-image: -o-linear-gradient(top, #29343a, #4b545b);
+  background-image: linear-gradient(to bottom, #29343a, #4b545b);
+  background-repeat: repeat-x;
+  outline: 0;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffa500', endColorstr='#ffe69500', GradientType=0);
+}
+
+.navbar .nav li.dropdown.open > .dropdown-toggle,
+.navbar .nav li.dropdown.active > .dropdown-toggle,
+.navbar .nav li.dropdown.open.active > .dropdown-toggle {
+  color: #ffffff;
+  background-color: #29343a;
+}
+
+/* end Inktank */
+
+
+
+
 .icon-circle-arrow-up{
     background-color:#9FF781;
 }
