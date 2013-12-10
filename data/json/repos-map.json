@@ -1,0 +1,14 @@
+{
+"ceph.git":{
+    "scm":"ceph.git",
+    "its":"http:__tracker.ceph.com_projects_ceph_"
+    },
+"teuthology.git":{
+    "scm":"teuthology.git",
+    "its":"http:__tracker.ceph.com_projects_teuthology_"
+    },
+"phprados.git":{
+    "scm":"phprados.git",
+    "its":"http:__tracker.ceph.com_projects_phprados_"
+    }
+}
