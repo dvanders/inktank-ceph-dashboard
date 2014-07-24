@@ -15,8 +15,7 @@ describe("VizGrimoireJS data", function() {
             });
         });
         it("exist data sources", function() {
-            // No ITS in Xen
-            var ds_data = Report.getDataSources()[1].data;
+            var ds_data = Report.getDataSources()[0].data;
             expect(ds_data instanceof Array).toBeFalsy();
         });
         it("data update", function() {
@@ -28,7 +27,7 @@ describe("VizGrimoireJS data", function() {
                     return false;
                 }
             });
-            var max_days_old = 3;
+            var max_days_old = 2;
             var now = new Date();
             var update_time = new Date(update+"T00:00:00.000Z");
             var day_mseconds = 60*60*24*1000;
