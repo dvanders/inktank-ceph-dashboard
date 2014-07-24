@@ -115,8 +115,20 @@ scm-contributors **/
 .navbar-default { 
 /*    background-color: #000000;
     border-color: #ED9C06;*/
-    background-color: #ED9C06;
-    border-color: #000000;
+    background-color: #29343A;
+    background-image: -moz-linear-gradient(top, #29343A, #4B545B);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#29343A), to(#4B545B));
+    background-image: -webkit-linear-gradient(top, #29343A, #4B545B);
+    background-image: -o-linear-gradient(top, #29343A, #4B545B);
+    background-image: linear-gradient(to bottom, #29343A, #4B545B);
+    background-repeat: repeat-x;
+    border-color: #29343A;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF37424A', endColorstr='#FF4B545B', GradientType=0);
+      -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+         -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+              box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+}
+
 }
 .navbar-fixed-top { 
     border-width: 0 0 2px;
@@ -145,6 +157,11 @@ scm-contributors **/
 /** Links **/
 
 a{ 
-   color: #ED9C06;
+   color: #F05C56;
  }
+
+a:hover,
+a:focus {
+  color: #A42A56;
+}
 
