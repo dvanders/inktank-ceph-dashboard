@@ -1,16 +1,17 @@
 {
 "date":"",
-"project_name" :"Project template", 
-"project_url" :"http://incubator.apache.org/allura/",
-"scm_url":"https://github.com/apache/incubator-allura",
-"scm_name":"git://git.apache.org/incubator-allura.git",
+"project_name" :"Ceph", 
+"project_url" :"http://ceph.com/",
+"scm_url":"https://github.com/ceph/",
+"scm_name":"https://github.com/ceph/",
 "scm_type":"git",
-"its_url":"http://sourceforge.net/p/allura/tickets/",
+"its_url":"http://tracker.ceph.com/",
 "its_name":"Tickets",
-"its_type":"",
-"mls_url":"http://incubator.apache.org/allura/mailing-lists.html",
+"its_type":"Redmine",
+"mls_url":"http://ceph.com/resources/mailing-list-irc/",
 "mls_name":"Mailing lists",
-"mls_type":"mailman",
+"mls_type":"gmane",
 "producer":"",
 "blog_url":""
 }
+
