@@ -4,14 +4,12 @@
         "companies-summary",
         "contributors",
         "domains",
-        "projects",
         "repos"
     ],
     "mls": [
         "companies",
         "contributors",
         "domains",
-        "projects",
         "repos"
     ],
     "irc": [
@@ -25,7 +23,6 @@
         "companies",
         "contributors",
         "domains",
-        "projects",
         "repos",
         "states"
     ]
