@@ -3,7 +3,6 @@
         "companies",
         "companies-summary",
         "contributors",
-        "countries",
         "domains",
         "projects",
         "repos"
@@ -11,13 +10,9 @@
     "mls": [
         "companies",
         "contributors",
-        "countries",
         "domains",
         "projects",
         "repos"
-    ],
-    "qaforums": [
-        "contributors"
     ],
     "irc": [
         "contributors",
@@ -29,24 +24,9 @@
     "its": [
         "companies",
         "contributors",
-        "countries",
         "domains",
         "projects",
         "repos",
         "states"
-    ],
-    "scr": [
-        "companies",
-        "companies-summary",
-        "countries",
-        "projects",
-        "repos"
-    ],
-    "downloads": [],
-    "wiki": [],
-    "extra": [
-	["Link 1", "http://bitergia.com"],
-	["Link 2", "https://twitter.com/bitergia"],
-	["Link 2", "https://twitter.com/flossmetrics"]
     ]
 }
