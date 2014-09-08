@@ -25,5 +25,6 @@
         "domains",
         "repos",
         "states"
-    ]
+    ],
+    "releases":[]
 }
