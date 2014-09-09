@@ -213,9 +213,9 @@ a:focus {
 
 /* style of the release dropdown */
 .btn-releaseselector{
-    background-color: #c43422;
-    border-color: #c43422;
-    color: #fff;
+    background-color: #F05C56;
+    border-color: #F05C56;
+    color: #FFFFFF;
     padding: 10px 20px;
     line-height: 1.7;
 }
