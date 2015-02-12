@@ -29,7 +29,7 @@
         ],
         "downloads": []
     },
-    "releases":["2014-Q1","2014-Q2","2014-Q3","2014-Q4"],
+    "releases":["v0.9","v0.8","v0.7","v0.6"],
     "menu_releases":{
         "scm": [
             "companies",
