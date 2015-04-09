@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"diff_netsenders_30": 160, "diff_netsenders_365": 541, "diff_netsenders_7": -17, "diff_netsent_30": 5849, "diff_netsent_365": -31995, "diff_netsent_7": -305, "first_date": "2012-07-03", "last_date": "2015-04-08", "percentage_senders_30": 153, "percentage_senders_365": 39, "percentage_senders_7": 15, "percentage_sent_30": 311, "percentage_sent_365": 24, "percentage_sent_7": 16, "repositories": 3, "senders": 3314, "senders_30": 264, "senders_365": 1896, "senders_7": 90, "sent": 306338, "sent_30": 7726, "sent_365": 96195, "sent_7": 1569}
+=======
+{"diff_netsenders_30": 167, "diff_netsenders_365": 534, "diff_netsenders_7": -10, "diff_netsent_30": 6454, "diff_netsent_365": -31964, "diff_netsent_7": -13, "first_date": "2012-07-03", "last_date": "2015-04-07", "percentage_senders_30": 175, "percentage_senders_365": 39, "percentage_senders_7": 9, "percentage_sent_30": 461, "percentage_sent_365": 24, "percentage_sent_7": 0, "repositories": 3, "senders": 3309, "senders_30": 262, "senders_365": 1891, "senders_7": 90, "sent": 305989, "sent_30": 7854, "sent_365": 96231, "sent_7": 1620}
+>>>>>>> c39db3df0d2af3f3b6b68af07d09b65b2a344576

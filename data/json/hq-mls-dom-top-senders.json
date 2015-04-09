@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"senders.": {"senders": ["Gregory Farnum", "Josh Durgin", "Yehuda Sadeh", "Tommi Virtanen", "Samuel Just", "Colin P. McCabe"], "sent": [2432, 1023, 978, 454, 383, 3]}, "senders.last month": {"senders": ["Gregory Farnum", "Josh Durgin", "Yehuda Sadeh", "Tommi Virtanen", "Samuel Just", "Colin P. McCabe"], "sent": [2432, 1023, 978, 454, 383, 3]}, "senders.last year": {"senders": ["Gregory Farnum", "Josh Durgin", "Yehuda Sadeh", "Tommi Virtanen", "Samuel Just", "Colin P. McCabe"], "sent": [2432, 1023, 978, 454, 383, 3]}}
+=======
+{"senders.": {"senders": ["Gregory Farnum", "Josh Durgin", "Yehuda Sadeh", "Tommi Virtanen", "Samuel Just", "Colin P. McCabe"], "sent": [2423, 1018, 977, 454, 383, 3]}, "senders.last month": {"senders": ["Gregory Farnum", "Josh Durgin", "Yehuda Sadeh", "Tommi Virtanen", "Samuel Just", "Colin P. McCabe"], "sent": [2423, 1018, 977, 454, 383, 3]}, "senders.last year": {"senders": ["Gregory Farnum", "Josh Durgin", "Yehuda Sadeh", "Tommi Virtanen", "Samuel Just", "Colin P. McCabe"], "sent": [2423, 1018, 977, 454, 383, 3]}}
+>>>>>>> c39db3df0d2af3f3b6b68af07d09b65b2a344576
