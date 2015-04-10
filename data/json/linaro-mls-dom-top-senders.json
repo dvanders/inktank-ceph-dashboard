@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"senders.": {"senders": ["Alex Elder", "Yazen Ghannam", "Peter Maydell", "Linus Walleij", "Nicolas Pitre"], "sent": [1534, 3, 3, 1, 1]}, "senders.last month": {"senders": ["Alex Elder", "Yazen Ghannam", "Peter Maydell", "Linus Walleij", "Nicolas Pitre"], "sent": [1534, 3, 3, 1, 1]}, "senders.last year": {"senders": ["Alex Elder", "Yazen Ghannam", "Peter Maydell", "Linus Walleij", "Nicolas Pitre"], "sent": [1534, 3, 3, 1, 1]}}
-=======
-{"senders.": {"senders": ["Alex Elder", "Peter Maydell", "Yazen Ghannam", "Linus Walleij", "Nicolas Pitre"], "sent": [1534, 3, 3, 1, 1]}, "senders.last month": {"senders": ["Alex Elder", "Peter Maydell", "Yazen Ghannam", "Linus Walleij", "Nicolas Pitre"], "sent": [1534, 3, 3, 1, 1]}, "senders.last year": {"senders": ["Alex Elder", "Peter Maydell", "Yazen Ghannam", "Linus Walleij", "Nicolas Pitre"], "sent": [1534, 3, 3, 1, 1]}}
->>>>>>> c39db3df0d2af3f3b6b68af07d09b65b2a344576
+{"senders.": {"senders": ["Alex Elder", "Peter Maydell", "Yazen Ghannam", "Nicolas Pitre", "Linus Walleij"], "sent": [1534, 3, 3, 1, 1]}, "senders.last month": {"senders": ["Alex Elder", "Peter Maydell", "Yazen Ghannam", "Nicolas Pitre", "Linus Walleij"], "sent": [1534, 3, 3, 1, 1]}, "senders.last year": {"senders": ["Alex Elder", "Peter Maydell", "Yazen Ghannam", "Nicolas Pitre", "Linus Walleij"], "sent": [1534, 3, 3, 1, 1]}}

@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"senders.": {"senders": ["Alex Elder", "Tejun Heo", "axboe", "Minchan Kim", "Dave Kleikamp", "Nick Piggin", "Mark Brown", "Ingo Molnar"], "sent": [1534, 13, 10, 4, 3, 2, 1, 1]}, "senders.last month": {"senders": ["Alex Elder", "Tejun Heo", "axboe", "Minchan Kim", "Dave Kleikamp", "Nick Piggin", "Mark Brown", "Ingo Molnar"], "sent": [1534, 13, 10, 4, 3, 2, 1, 1]}, "senders.last year": {"senders": ["Alex Elder", "Tejun Heo", "axboe", "Minchan Kim", "Dave Kleikamp", "Nick Piggin", "Mark Brown", "Ingo Molnar"], "sent": [1534, 13, 10, 4, 3, 2, 1, 1]}}
-=======
 {"senders.": {"senders": ["Alex Elder", "Tejun Heo", "axboe", "Minchan Kim", "Dave Kleikamp", "Nick Piggin", "Ingo Molnar", "Mark Brown"], "sent": [1534, 13, 10, 4, 3, 2, 1, 1]}, "senders.last month": {"senders": ["Alex Elder", "Tejun Heo", "axboe", "Minchan Kim", "Dave Kleikamp", "Nick Piggin", "Ingo Molnar", "Mark Brown"], "sent": [1534, 13, 10, 4, 3, 2, 1, 1]}, "senders.last year": {"senders": ["Alex Elder", "Tejun Heo", "axboe", "Minchan Kim", "Dave Kleikamp", "Nick Piggin", "Ingo Molnar", "Mark Brown"], "sent": [1534, 13, 10, 4, 3, 2, 1, 1]}}
->>>>>>> c39db3df0d2af3f3b6b68af07d09b65b2a344576
