@@ -19,6 +19,9 @@
     <!-- icons -->
     <link rel="stylesheet" href="./css/awesome/css/font-awesome.min.css">
 
+    <!-- Type ahead style -->
+    <link href="./css/typeahead.css" rel="stylesheet">
+
     <!-- custom -->
     <!-- <link rel="stylesheet" href="VizGrimoireJS/custom.css">-->
     <link rel="stylesheet" type="text/css" id="theme" href="./css/vizgrimoire.css">
@@ -41,7 +44,7 @@
     <div class="col-md-6">
       <!-- evolution #companies -->
       <div class="MetricsEvol" data-data-source="scm"
-           data-metrics="scm_companies" data-legend="false"
+           data-metrics="scm_organizations" data-legend="false"
            data-title="Active companies per month" data-help="false"
            data-light-style="true" style="height: 80px; margin-right:20px;"></div>
     </div>
@@ -114,6 +117,8 @@
     <script src="./lib/filter_panel.js"></script>
     <script src="./lib/events.js"></script>
     <script src="./lib/project_comparison.js"></script>
+    <script src="./lib/typeahead.jquery.js"></script>
+    <script src="./lib/search.js"></script>    
     <script type="text/javascript">
         $(document).ready(function() {
             $('.collapse').on('shown.bs.collapse', function(){
