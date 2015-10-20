@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["139 days, 10:29:45"],"id": ["3e04ce97ae1d3ee56b2dda83abce7ff57d8fdf4c"],"name": ["Ismael"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["138 days, 10:29:45"],"id": ["3e04ce97ae1d3ee56b2dda83abce7ff57d8fdf4c"],"name": ["Ismael"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

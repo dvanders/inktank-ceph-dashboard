@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["567 days, 7:35:32"],"id": ["32723e77bc6791cb1553d94bb96523b91891dd42"],"name": ["Nikola Kotur"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["566 days, 7:35:32"],"id": ["32723e77bc6791cb1553d94bb96523b91891dd42"],"name": ["Nikola Kotur"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

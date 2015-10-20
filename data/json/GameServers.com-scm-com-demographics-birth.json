@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["458 days, 10:28:30"],"id": ["3c9022b25dc74eb6e81a6d2e88f741809402f033"],"name": ["devicenull"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["457 days, 10:28:30"],"id": ["3c9022b25dc74eb6e81a6d2e88f741809402f033"],"name": ["devicenull"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

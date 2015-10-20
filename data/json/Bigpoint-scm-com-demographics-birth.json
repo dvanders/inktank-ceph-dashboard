@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["648 days, 18:15:05"],"id": ["9e4aacae3785892458d5f56e8a16892975f4f5ed"],"name": ["Moritz Möller"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["647 days, 18:15:05"],"id": ["9e4aacae3785892458d5f56e8a16892975f4f5ed"],"name": ["Moritz Möller"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

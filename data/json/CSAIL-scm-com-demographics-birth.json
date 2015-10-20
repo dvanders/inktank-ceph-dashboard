@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["487 days, 16:15:15"],"id": ["20127293fbc21235c46c646856d345d4f10087e5"],"name": ["Stephen Jahl"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["486 days, 16:15:15"],"id": ["20127293fbc21235c46c646856d345d4f10087e5"],"name": ["Stephen Jahl"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

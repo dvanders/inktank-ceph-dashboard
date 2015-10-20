@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["847 days, 2:11:34"],"id": ["0be941a01547647c5956f562e923f36b326b9642"],"name": ["Laurent Barbe"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["846 days, 2:11:34"],"id": ["0be941a01547647c5956f562e923f36b326b9642"],"name": ["Laurent Barbe"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

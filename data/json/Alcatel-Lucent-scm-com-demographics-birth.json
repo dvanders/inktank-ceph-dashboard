@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["140 days, 8:22:02"],"id": ["ca88fdb0d6dbff84ccaec5baf5473b585c4b5eaf"],"name": ["Joseph McDonald"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["139 days, 8:22:02"],"id": ["ca88fdb0d6dbff84ccaec5baf5473b585c4b5eaf"],"name": ["Joseph McDonald"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["83 days, 7:29:17"],"id": ["d982cc497adcf8c253c1bb5241d4d47ddb5128f0"],"name": ["Michael Sambol"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["82 days, 7:29:17"],"id": ["d982cc497adcf8c253c1bb5241d4d47ddb5128f0"],"name": ["Michael Sambol"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

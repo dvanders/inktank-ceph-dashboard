@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["751 days, 13:53:55"],"id": ["0c8b4ac67fa04be64eecaca5a75dae923af24dbd"],"name": ["Mark Kampe"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["750 days, 13:53:55"],"id": ["0c8b4ac67fa04be64eecaca5a75dae923af24dbd"],"name": ["Mark Kampe"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

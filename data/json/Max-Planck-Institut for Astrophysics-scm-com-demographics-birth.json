@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["1407 days, 9:28:50"],"id": ["3b1ed1db0ac3256a962d412abcb707d6bdd59059"],"name": ["Andre Noll"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["1406 days, 9:28:50"],"id": ["3b1ed1db0ac3256a962d412abcb707d6bdd59059"],"name": ["Andre Noll"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

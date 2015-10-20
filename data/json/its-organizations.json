@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"closed_365": [0, 3494, 0, 248, 0, 1, 5, 20, 26, 0, 7, 2, 1, 1, 0], "closers_365": [0, 31, 0, 1, 0, 1, 2, 1, 1, 0, 1, 1, 1, 1, 0], "name": ["Inktank", "Red Hat", "DreamHost", "SUSE", "Cloudwatt", "Intel", "University of California, Santa Cruz", "42on", "UnitedStack", "eNovance", "Yahoo, Inc.", "Igalia S.L.", "Deutsche Telekom", "Flipkart", "SanDisk"]}
+=======
+{"closed_365": [0, 3493, 0, 248, 0, 1, 5, 20, 26, 0, 7, 2, 1, 1, 0], "closers_365": [0, 31, 0, 1, 0, 1, 2, 1, 1, 0, 1, 1, 1, 1, 0], "name": ["Inktank", "Red Hat", "DreamHost", "SUSE", "Cloudwatt", "Intel", "University of California, Santa Cruz", "42on", "UnitedStack", "eNovance", "Yahoo, Inc.", "Igalia S.L.", "Deutsche Telekom", "Flipkart", "SanDisk"]}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

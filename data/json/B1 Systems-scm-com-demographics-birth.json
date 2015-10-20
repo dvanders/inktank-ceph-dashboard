@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["593 days, 8:45:34"],"id": ["5527d68fae39640cf22e88f4d831f525d3a7a077"],"name": ["Daniel Poelzleithner"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["592 days, 8:45:34"],"id": ["5527d68fae39640cf22e88f4d831f525d3a7a077"],"name": ["Daniel Poelzleithner"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

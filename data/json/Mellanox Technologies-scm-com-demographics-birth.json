@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["278 days, 7:16:06","70 days, 10:59:19"],"id": ["b3f6b8684d52ca84e9e37e26121f5dcd5d269008","fc5656cea02d946cad37b7992f9ef18bcaf79c79"],"name": ["Vu Pham","Eyal Salomon"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["277 days, 7:16:06","69 days, 10:59:19"],"id": ["b3f6b8684d52ca84e9e37e26121f5dcd5d269008","fc5656cea02d946cad37b7992f9ef18bcaf79c79"],"name": ["Vu Pham","Eyal Salomon"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

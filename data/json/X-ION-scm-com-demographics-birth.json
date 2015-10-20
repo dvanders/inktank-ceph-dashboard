@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["606 days, 15:00:12","634 days, 14:12:58"],"id": ["095fac73c1926546a5121483a8052da7c1323d89","3f5efb17b55747a7e45df88633b2d043cf8a9153"],"name": ["Mouad Benchchaoui","Stephan Renatus"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["605 days, 15:00:12","633 days, 14:12:58"],"id": ["095fac73c1926546a5121483a8052da7c1323d89","3f5efb17b55747a7e45df88633b2d043cf8a9153"],"name": ["Mouad Benchchaoui","Stephan Renatus"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

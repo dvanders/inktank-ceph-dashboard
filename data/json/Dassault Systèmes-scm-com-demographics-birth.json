@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["253 days, 9:11:05"],"id": ["8ac3b84d3170b60a9df58a666670faa40dd0aa48"],"name": ["Xavier Roche"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["252 days, 9:11:05"],"id": ["8ac3b84d3170b60a9df58a666670faa40dd0aa48"],"name": ["Xavier Roche"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

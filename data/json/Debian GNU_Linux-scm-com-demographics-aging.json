@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["1194 days, 17:01:37"],"id": ["8c73d4250655805c5621c71b9ac1afa9a2e8fc75"],"name": ["James Page"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["1193 days, 17:01:37"],"id": ["8c73d4250655805c5621c71b9ac1afa9a2e8fc75"],"name": ["James Page"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

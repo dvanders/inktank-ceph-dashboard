@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["517 days, 13:21:59"],"id": ["0c4c72b7335dfd9a3e329b41a528cf0c9e9a197f"],"name": ["Christian Theune"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["516 days, 13:21:59"],"id": ["0c4c72b7335dfd9a3e329b41a528cf0c9e9a197f"],"name": ["Christian Theune"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

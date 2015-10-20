@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["364 days, 10:16:04"],"id": ["aca0407acab603b555625083541393b7d5da6e55"],"name": ["Federico Gimenez Nieto"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["363 days, 10:16:04"],"id": ["aca0407acab603b555625083541393b7d5da6e55"],"name": ["Federico Gimenez Nieto"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

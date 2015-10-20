@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["678 days, 5:31:12","31 days, 15:12:55","396 days, 2:54:40","95 days, 10:34:54"],"id": ["0bd3bb18a7180ee9e0140fca7002bde2c6d90760","1fc947eb4efda162de618420f32dfd996c033cbc","58b8bded1fff0822f8cd1d1255928063e84b4597","c675e2cb6890ac143ddf1241460815deac08241f"],"name": ["Kai Zhang","Sébastien Han","Johnu George","Manuel Bessler"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["677 days, 5:31:12","30 days, 15:12:55","395 days, 2:54:40","94 days, 10:34:54"],"id": ["0bd3bb18a7180ee9e0140fca7002bde2c6d90760","1fc947eb4efda162de618420f32dfd996c033cbc","58b8bded1fff0822f8cd1d1255928063e84b4597","c675e2cb6890ac143ddf1241460815deac08241f"],"name": ["Kai Zhang","Sébastien Han","Johnu George","Manuel Bessler"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

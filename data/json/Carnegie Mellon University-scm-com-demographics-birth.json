@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["970 days, 11:08:20"],"id": ["260b9d07e30df32a000a1dffac65a6063e6f6e37"],"name": ["Jan Harkes"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["969 days, 11:08:20"],"id": ["260b9d07e30df32a000a1dffac65a6063e6f6e37"],"name": ["Jan Harkes"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

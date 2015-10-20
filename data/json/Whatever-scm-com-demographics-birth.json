@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["1175 days, 12:11:31"],"id": ["77dd87a836a2598eb93cc0f740bd99b0add10d43"],"name": ["Sylvain Munaut"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["1174 days, 12:11:31"],"id": ["77dd87a836a2598eb93cc0f740bd99b0add10d43"],"name": ["Sylvain Munaut"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

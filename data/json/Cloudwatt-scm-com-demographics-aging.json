@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["1006 days, 3:11:45"],"id": ["00f7e05bb82e2d9af254f0234a6f277612b6306f"],"name": ["Loic Dachary"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["1005 days, 3:11:45"],"id": ["00f7e05bb82e2d9af254f0234a6f277612b6306f"],"name": ["Loic Dachary"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

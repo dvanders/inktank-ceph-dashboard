@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["374 days, 8:32:45"],"id": ["ec6e20dae2a21c574199e518b1c37f059a992d7e"],"name": ["Gauvain Pocentek"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["373 days, 8:32:45"],"id": ["ec6e20dae2a21c574199e518b1c37f059a992d7e"],"name": ["Gauvain Pocentek"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

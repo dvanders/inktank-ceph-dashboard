@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["795 days, 9:58:28"],"id": ["0dd2658187b51f68241617d456881ef987f04165"],"name": ["Scott Devoid"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["794 days, 9:58:28"],"id": ["0dd2658187b51f68241617d456881ef987f04165"],"name": ["Scott Devoid"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"date": "2015-10-20 00:00:00","persons": {"age": ["534 days, 11:57:58"],"id": ["014beb5a3ac6874c42b8b2bff68f7bcc2e13442a"],"name": ["Stefan Eilemann"]}}
+=======
+{"date": "2015-10-19 00:00:00","persons": {"age": ["533 days, 11:57:58"],"id": ["014beb5a3ac6874c42b8b2bff68f7bcc2e13442a"],"name": ["Stefan Eilemann"]}}
+>>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5
