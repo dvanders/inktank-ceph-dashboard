@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"date": "2015-10-20 00:00:00","persons": {"age": ["340 days, 6:40:42"],"id": ["e541509b24bf66f2b769078161153f183e7dacce"],"name": ["Igor Shestakov"]}}
-=======
-{"date": "2015-10-19 00:00:00","persons": {"age": ["339 days, 6:40:42"],"id": ["e541509b24bf66f2b769078161153f183e7dacce"],"name": ["Igor Shestakov"]}}
->>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5
+{"date": "2015-10-21 00:00:00","persons": {"age": ["341 days, 6:40:42"],"id": ["e541509b24bf66f2b769078161153f183e7dacce"],"name": ["Igor Shestakov"]}}

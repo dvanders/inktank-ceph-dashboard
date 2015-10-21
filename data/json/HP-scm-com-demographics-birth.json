@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"date": "2015-10-20 00:00:00","persons": {"age": ["195 days, 8:56:50","336 days, 6:42:45"],"id": ["8fc41495ad86afabddfbb307b0205b2bb3ad0596","ab574de740e05a18916446234953bf9dbfbaa507"],"name": ["Joe Handzik","Blaine Gardner"]}}
-=======
-{"date": "2015-10-19 00:00:00","persons": {"age": ["194 days, 8:56:50","335 days, 6:42:45"],"id": ["8fc41495ad86afabddfbb307b0205b2bb3ad0596","ab574de740e05a18916446234953bf9dbfbaa507"],"name": ["Joe Handzik","Blaine Gardner"]}}
->>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5
+{"date": "2015-10-21 00:00:00","persons": {"age": ["196 days, 8:56:50","337 days, 6:42:45"],"id": ["8fc41495ad86afabddfbb307b0205b2bb3ad0596","ab574de740e05a18916446234953bf9dbfbaa507"],"name": ["Joe Handzik","Blaine Gardner"]}}

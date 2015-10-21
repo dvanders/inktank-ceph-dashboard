@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"date": "2015-10-20 00:00:00","persons": {"age": ["62 days, 8:51:53","150 days, 14:18:59"],"id": ["3a874a81c01058edb7ed829ba35bf0eb742d012a","5526d2e1fb8367ebab83c6c4ca592f0343c2df16"],"name": ["Juan A. Suarez Romero","Javier M. Mellid"]}}
-=======
-{"date": "2015-10-19 00:00:00","persons": {"age": ["61 days, 8:51:53","149 days, 14:18:59"],"id": ["3a874a81c01058edb7ed829ba35bf0eb742d012a","5526d2e1fb8367ebab83c6c4ca592f0343c2df16"],"name": ["Juan A. Suarez Romero","Javier M. Mellid"]}}
->>>>>>> c9ff271e1156e201bde3bde9a1d1f284aca4bcc5
+{"date": "2015-10-21 00:00:00","persons": {"age": ["63 days, 8:51:53","151 days, 14:18:59"],"id": ["3a874a81c01058edb7ed829ba35bf0eb742d012a","5526d2e1fb8367ebab83c6c4ca592f0343c2df16"],"name": ["Juan A. Suarez Romero","Javier M. Mellid"]}}
