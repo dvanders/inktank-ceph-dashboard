@@ -58,6 +58,10 @@
         "name" : "Total downloads",
         "column" : "downloads"
     },
+    "downloads_udownloads":{
+        "name" : "Unique downloads",
+        "column" : "udownloads"
+    },
     "downloads_packages" : {
         "divid" : "",
         "column" : "packages",
@@ -127,6 +131,10 @@
     }
 },
 "its": {
+    "its_bmitickets" : {
+        "divid" : "its_bmitickets",
+        "column" : "bmitickets"
+    },
     "its_opened" : {
         "divid" : "its_opened",
         "column" : "opened",
