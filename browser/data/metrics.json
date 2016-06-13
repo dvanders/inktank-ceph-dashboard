@@ -156,6 +156,10 @@
         "name" : "Tickets metrics",
         "desc" : ""
     },
+    "its_bmitickets" : {
+        "divid" : "its_bmitickets",
+        "column" : "bmitickets"
+    },
     "its_opened" : {
         "divid" : "its_opened",
         "column" : "opened",
